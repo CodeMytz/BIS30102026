@@ -1,0 +1,44 @@
+[
+  {
+    "address": "0x484b394736cb4A3C86404193109564A249BF5ACb",
+    "rewardToken": "0x9bf08724A7fB3E7333665172734B6333e6F18390",
+    "lpTokens": [
+      "0x81e1a9aB4FbAA6e5dc3b2c7B5cD8F32f1939D63A",
+      "0x8672De59De9Ab907BfccdDbe369353Be6fb57abB"
+    ],
+    "durationSeconds": "360",
+    "budgetPerPool": "2000",
+    "deployer": "0x7d58D03772A365D931c824E16D3A2850fF969A22",
+    "txHash": "0x3f3ff35ba1971825f8ed17a379306ff75ebf99c3ee984f6f409b0b7c08f2ac5d",
+    "chainId": "11155111",
+    "deployedAt": "2026-10-30T08:34:49.364Z"
+  },
+  {
+    "address": "0x1f753BB554CE1c3C7bd520Cf61DBE2B19e3e1209",
+    "rewardToken": "0x9bf08724A7fB3E7333665172734B6333e6F18390",
+    "lpTokens": [
+      "0x9c8244D58018eca3F2FC9787358aaF600cfD16a9",
+      "0x15F307D7e9f9669e0c1DfB44f1d6db1ed36f2387"
+    ],
+    "durationSeconds": "360",
+    "budgetPerPool": "2000",
+    "deployer": "0x7d58D03772A365D931c824E16D3A2850fF969A22",
+    "txHash": "0x43bd078332198db4c91b679013b3f33c4ce2cd350568f991cdc43ddad5e5343e",
+    "chainId": "11155111",
+    "deployedAt": "2026-10-30T08:42:24.966Z"
+  },
+  {
+    "address": "0xe8098ee45EFEe55Db56EeB6580b72853632FEE70",
+    "rewardToken": "0x9bf08724A7fB3E7333665172734B6333e6F18390",
+    "lpTokens": [
+      "0x9c8244D58018eca3F2FC9787358aaF600cfD16a9",
+      "0x15F307D7e9f9669e0c1DfB44f1d6db1ed36f2387"
+    ],
+    "durationSeconds": "360",
+    "budgetPerPool": "2000",
+    "deployer": "0x7d58D03772A365D931c824E16D3A2850fF969A22",
+    "txHash": "0xd387d3ec1935e850b5d2ecd84a2f8a56487266cdf8d33aeb990e204e239960e8",
+    "chainId": "11155111",
+    "deployedAt": "2026-10-30T08:47:37.224Z"
+  }
+]
